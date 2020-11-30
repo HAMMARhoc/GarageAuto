@@ -11,6 +11,6 @@ spring:
               format_sql: true
 
       datasource:
-           url: jdbc:mysql://localhost:3306/garageAuto
+           url: jdbc:mysql://localhost:3306/dbgarageauto
            username: root
            password:

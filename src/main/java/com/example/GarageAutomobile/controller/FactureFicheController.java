@@ -15,11 +15,7 @@ import com.example.GarageAutomobile.controller.form.FactureFicheForm;
 import com.example.GarageAutomobile.service.iServiceFactureFiche;
 import com.example.GarageAutomobile.service.iServiceFiche;
 
-/**
- * 
- * @author Xavier
- *
- */
+
 @Controller
 public class FactureFicheController {
 	/**
